@@ -1684,6 +1684,14 @@
             "STM32F334x8"
         ]
     },
+    "DISCO_F303CVT6" :
+    {
+        "inherits": [
+            "MCU_STM32F303xC"
+        ],
+        "device_name": "STM32F303VCT6",
+        "image_url": "https://www.st.com/bin/ecommerce/api/image.PF254044.en.feature-description-include-personalized-no-cpn-medium.jpg"
+    },
 
     // STM32F4 Targets -------------------------------------------------------------------------------------------------
     "MCU_STM32F4": {
